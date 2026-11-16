@@ -1,6 +1,6 @@
 ---
 name: watch-what-matters
-description: Get told when something important changes: alert rules for drops or jumps, alerts in Slack, Teams or Discord, the Monday email, and what Okidoki noticed on its own.
+description: "Get told when something important changes: alert rules for drops or jumps, alerts in Slack, Teams or Discord, the Monday email, and what Okidoki noticed on its own."
 ---
 
 # Watch what matters

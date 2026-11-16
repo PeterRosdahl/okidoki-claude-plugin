@@ -1,6 +1,6 @@
 ---
 name: all-my-sites
-description: For agencies and people with many websites: every site at a glance, which ones need a look, and what to do first.
+description: "For agencies and people with many websites: every site at a glance, which ones need a look, and what to do first."
 ---
 
 # All my sites

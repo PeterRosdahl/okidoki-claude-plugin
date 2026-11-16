@@ -1,6 +1,6 @@
 ---
 name: dig-deeper
-description: Hard questions on the website numbers that need many numbers at once: one thing cut by another (sources by device, countries by reading, weekday by hour), patterns that go together, segments, saved views and custom queries.
+description: "Hard questions on the website numbers that need many numbers at once: one thing cut by another (sources by device, countries by reading, weekday by hour), patterns that go together, segments, saved views and custom queries."
 ---
 
 # Dig deeper

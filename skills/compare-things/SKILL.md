@@ -1,6 +1,6 @@
 ---
 name: compare-things
-description: Compare campaigns, newsletters, pages, sources, countries, devices, sales days or occasions side by side, and say which did best.
+description: "Compare campaigns, newsletters, pages, sources, countries, devices, sales days or occasions side by side, and say which did best."
 ---
 
 # Compare things

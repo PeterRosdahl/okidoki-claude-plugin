@@ -1,6 +1,6 @@
 ---
 name: goals-and-funnels
-description: Track what visitors should do on the site, like sign-ups, purchases, contact forms or downloads, and see where people drop off on the way.
+description: "Track what visitors should do on the site, like sign-ups, purchases, contact forms or downloads, and see where people drop off on the way."
 ---
 
 # Goals and funnels

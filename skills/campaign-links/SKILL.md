@@ -1,6 +1,6 @@
 ---
 name: campaign-links
-description: Make tagged campaign links for newsletters, social posts and ads, set up ad platforms so every ad is counted, and check a link before spending money.
+description: "Make tagged campaign links for newsletters, social posts and ads, set up ad platforms so every ad is counted, and check a link before spending money."
 ---
 
 # Campaign links

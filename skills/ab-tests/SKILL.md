@@ -1,6 +1,6 @@
 ---
 name: ab-tests
-description: Run and read A/B tests: which version of a page reaches the goal more often, whether the difference is real, and when to stop.
+description: "Run and read A/B tests: which version of a page reaches the goal more often, whether the difference is real, and when to stop."
 ---
 
 # A/B tests

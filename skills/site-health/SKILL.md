@@ -1,6 +1,6 @@
 ---
 name: site-health
-description: Check that the website works for visitors: whether it is down or has stopped counting, broken links, JavaScript errors, rage clicks and slow pages.
+description: "Check that the website works for visitors: whether it is down or has stopped counting, broken links, JavaScript errors, rage clicks and slow pages."
 ---
 
 # Site health

@@ -1,6 +1,6 @@
 ---
 name: weekly-check-in
-description: How the website or business did this week or last week: the weekly check-in card, what changed and the next steps worth taking.
+description: "How the website or business did this week or last week: the weekly check-in card, what changed and the next steps worth taking."
 ---
 
 # Weekly check-in

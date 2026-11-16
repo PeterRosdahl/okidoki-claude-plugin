@@ -1,6 +1,6 @@
 ---
 name: where-visitors-come-from
-description: Which sources, channels, campaigns, newsletters, ads and search terms bring visitors, sign-ups and sales, and what each campaign cost per goal.
+description: "Which sources, channels, campaigns, newsletters, ads and search terms bring visitors, sign-ups and sales, and what each campaign cost per goal."
 ---
 
 # Where visitors come from

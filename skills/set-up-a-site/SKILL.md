@@ -1,6 +1,6 @@
 ---
 name: set-up-a-site
-description: Add a new website to Okidoki, install it on the site, check that visits are counted, and pick the goals worth tracking.
+description: "Add a new website to Okidoki, install it on the site, check that visits are counted, and pick the goals worth tracking."
 ---
 
 # Set up a site

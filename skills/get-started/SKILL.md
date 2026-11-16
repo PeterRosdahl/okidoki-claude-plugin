@@ -1,6 +1,6 @@
 ---
 name: get-started
-description: When the person asks what Okidoki can do or how to start with it. Quick: one call, a short answer, three questions to try.
+description: "When the person asks what Okidoki can do or how to start with it. Quick: one call, a short answer, three questions to try."
 ---
 
 # Get started with Okidoki

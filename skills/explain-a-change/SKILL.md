@@ -1,6 +1,6 @@
 ---
 name: explain-a-change
-description: Find out why visitors, page views, goals or sales went up or down: which source, page, campaign or day the change came from, and what happened then.
+description: "Find out why visitors, page views, goals or sales went up or down: which source, page, campaign or day the change came from, and what happened then."
 ---
 
 # Explain a change

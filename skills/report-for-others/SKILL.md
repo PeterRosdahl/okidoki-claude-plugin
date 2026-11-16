@@ -1,6 +1,6 @@
 ---
 name: report-for-others
-description: Make a report of the website numbers for a boss, client or team: a written summary, a read-only share link, a spreadsheet export, or a report sent every Monday or month.
+description: "Make a report of the website numbers for a boss, client or team: a written summary, a read-only share link, a spreadsheet export, or a report sent every Monday or month."
 ---
 
 # Report for others

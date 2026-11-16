@@ -1,7 +1,7 @@
 {
   "name": "okidoki-analytics",
   "displayName": "Okidoki Analytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cookieless website analytics in plain words: how your site is doing, where visitors come from, which campaigns worked, goals, campaign links and a weekly check-in, from your Okidoki account.",
   "author": {
     "name": "Adrbl AB",
