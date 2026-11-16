@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "okidoki": {
+      "type": "http",
+      "url": "https://okidoki.sh/mcp"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "okidoki-analytics",
+  "displayName": "Okidoki Analytics",
+  "version": "1.0.0",
+  "description": "Cookieless website analytics in plain words: how your site is doing, where visitors come from, which campaigns worked, goals, campaign links and a weekly check-in, from your Okidoki account.",
+  "author": {
+    "name": "Adrbl AB",
+    "email": "hello@okidoki.sh",
+    "url": "https://okidoki.sh"
+  },
+  "homepage": "https://docs.okidoki.sh/mcp",
+  "repository": "https://github.com/PeterRosdahl/okidoki-claude-plugin",
+  "license": "MIT",
+  "keywords": ["analytics", "website", "cookieless", "privacy", "marketing", "campaigns", "utm"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://docs.okidoki.sh/mcp",
+  "supportUrl": "https://docs.okidoki.sh/troubleshooting",
+  "privacyPolicyUrl": "https://okidoki.sh/privacy",
+  "termsOfServiceUrl": "https://okidoki.sh/terms"
+}
